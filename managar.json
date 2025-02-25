@@ -1,4 +1,5 @@
 [{"token":"e07f09b175b800170170ef163fe21f5c","status":"1","dtExpiracao":"", "cliente":"Cliente A"},
 {"token":"b775a7af4874d205dac0569b2c00e3b5","status":"1","dtExpiracao":"25/02/2025", "cliente":"Cliente B"},
-{"token":"053c6e9b688775bb61eabcdb400c05df","status":"1","dtExpiracao":"25/03/2025", "cliente":"Cliente C"}
+{"token":"053c6e9b688775bb61eabcdb400c05df","status":"1","dtExpiracao":"25/03/2025", "cliente":"Cliente C"},
+{"token":"5d4d97188d5863c71cc416710aecd7df","status":"1","dtExpiracao":"24/02/2025", "cliente":"Cliente D"}
 ]
